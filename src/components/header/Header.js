@@ -8,7 +8,7 @@ import { AiFillAlipayCircle } from "react-icons/ai";
 function Header(){
     return (
         <div className='header'>
-            <p>Hola</p>
+            <p>Hola anderson</p>
             <img src={labial04}/>
             <AiFillAlipayCircle/>
         </div>
