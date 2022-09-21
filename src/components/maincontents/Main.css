@@ -11,5 +11,9 @@ height: 385px;
 
     #socialMedia {
         background-color: blue;
-        width: 30%;
-    }
+            width: 29%; 
+            height: 385px; 
+            background: #5cb85c;
+            border-radius: 200px 0 0 200px; 
+       }
+    
