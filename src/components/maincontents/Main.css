@@ -21,9 +21,11 @@ height: 385px;
 
        }
     .semi-Circulo{
+        background-image: url(../images/plane.jpg);
+        background-size: cover;
+        background-position: center;
         height: 222px;
         width: 120px;
-        background: #5cb85c;
         -webkit-border-radius: 200px 0 0 200px;
         position: absolute;
         right: 0px;
