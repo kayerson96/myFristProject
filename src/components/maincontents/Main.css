@@ -1,10 +1,15 @@
-#imAnderson{
-    background-color: red;
-    width: 70%;
-    text-align: center;
+.row{
+height: 385px;
 }
 
-#socialMedia {
-    background-color: blue;
-    width: 30%;
-}
+    #imAnderson{
+        background-color: red;
+        width: 70%;
+        text-align: center;
+        padding-top: 6%;
+    }
+
+    #socialMedia {
+        background-color: blue;
+        width: 30%;
+    }

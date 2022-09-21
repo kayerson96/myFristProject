@@ -10,8 +10,6 @@ function Home(){
         <div className=''>
             <Header/>
             <Main/>
-            <p>Hola anderson jose castillo </p>
-            
             <Footer/>
         </div>
 
