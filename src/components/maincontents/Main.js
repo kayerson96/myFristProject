@@ -12,7 +12,11 @@ Frontend Developer
  About)=>   Me?</h2>
             </div>
             <div className='col-md-3' id='socialMedia'>
-            <div className='semi-Circulo'></div>
+            <div className='circulogit'></div>
+            <div className='circuloinst'></div>
+            <div className='circuloface'></div>
+            <div className='circulomail'></div>
+                    <div className='semi-Circulo'></div>
             </div>
 
     </div>
