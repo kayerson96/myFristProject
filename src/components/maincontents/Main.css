@@ -3,17 +3,29 @@ height: 385px;
 }
 
     #imAnderson{
-        background-color: red;
+        color: #F5F1F1;
+        background-color: #000C0E;
+        height: 385px;
         width: 70%;
         text-align: center;
-        padding-top: 6%;
+        padding-top: 2%;
+        border-right: 50px solid #ffff;
+        border-top: 100px solid transparent;
+        border-bottom: 100px solid transparent;
     }
 
     #socialMedia {
-        background-color: blue;
             width: 29%; 
-            height: 385px; 
-            background: #5cb85c;
-            border-radius: 200px 0 0 200px; 
+            height: 385px;
+            position: relative;
+
        }
-    
+    .semi-Circulo{
+        height: 222px;
+        width: 120px;
+        background: #5cb85c;
+        -webkit-border-radius: 200px 0 0 200px;
+        position: absolute;
+        right: 0px;
+        bottom: 80px;
+    }

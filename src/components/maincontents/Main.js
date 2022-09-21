@@ -11,7 +11,9 @@ Frontend Developer
 (Do you want to know <br></br>
  About)=>   Me?</h2>
             </div>
-            <div className='col-md-3' id='socialMedia'>jose</div>
+            <div className='col-md-3' id='socialMedia'>
+            <div className='semi-Circulo'></div>
+            </div>
 
     </div>
      )
