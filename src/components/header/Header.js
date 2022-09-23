@@ -2,9 +2,17 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Header.css';
 import"./Header.css";
+import { Link } from 'react-router-dom';
 
 function Header(){
     return (
+      <>
+      <nav>
+        <ul>
+          <li><Link to="/contact">contacta me</Link></li>
+        </ul>
+      </nav>
+
         <div>
             <nav class="navbar navbar-expand-lg ">
   <div class="container-fluid">
@@ -28,7 +36,7 @@ function Header(){
   </div>
 </nav>
         </div>
-        
+        </>   
     )
 }
 export default Header;
