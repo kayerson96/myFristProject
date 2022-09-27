@@ -4,14 +4,18 @@ import"./Main.css";
 
 function Main(){
      return(
-     <div className='row'>
-            <div className='col-md-3' id='imAnderson'>
-            <h2>Hi, I’m Anderson <br></br>
-Frontend Developer
-(Do you want to know <br></br>
- About)=>   Me?</h2>
-            </div>
-            <div className='col-md-3' id='socialMedia'>
+     <div className='maincontain'>
+            <div className='' id='imAnderson'>
+            <div className='title'>
+               <h2 className='myName'>Hi, I’m Anderson <br></br>
+               Frontend Developer
+               (Do you want to know <br></br>
+               About)=>   Me?</h2>
+ </div>
+          </div>
+
+
+            <div className='' id='socialMedia'>
             <button className='circulogit'></button>
             <button className='circuloinst'></button>
             <button className='circuloface'></button>

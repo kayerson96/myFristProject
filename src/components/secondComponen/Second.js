@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import"./Second.css";
+import "./Second.css";
 import imagen1 from "../../images/Imagen1.png"
 import forja from "../../images/forja.png"
 import makeup from "../../images/forja.png"
@@ -8,6 +8,7 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function Second(){
      return(
+      <div className='container'>
       <Carousel>
       <Carousel.Item>
         <img
@@ -16,8 +17,8 @@ function Second(){
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>makeup</h3>
+          <p>Una pagina para maquillaje.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -47,6 +48,7 @@ function Second(){
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    </div>
      )
 }
 export default Second;
