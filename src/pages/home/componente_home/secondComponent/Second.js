@@ -1,9 +1,9 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./Second.css";
-import imagen1 from "../../images/Imagen1.png"
-import forja from "../../images/forja.png"
-import makeup from "../../images/makeup.png"
+import imagen1 from "../../../../images/Imagen1.png"
+import forja from "../../../../images/forja.png"
+import makeup from "../../../../GITimages/makeup.png"
 import Carousel from 'react-bootstrap/Carousel';
 
 function Second(){

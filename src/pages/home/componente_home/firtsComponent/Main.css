@@ -42,7 +42,7 @@ position: relative;
 
        }
     .semi-Circulo{
-        background-image: url(../../images/plane.jpg);
+        background-image: url(../../../../images/plane.jpg);
         background-size: cover;
         background-position: center;
         height: 222px;
@@ -61,7 +61,7 @@ position: relative;
                 position: absolute;
                 top: 10px;
                 right: 80px;
-                background-image: url(../../images/image-git.png);
+                background-image: url(../../../../images/image-git.png);
                 background-size: cover;
              }
 
@@ -74,7 +74,7 @@ position: relative;
                 position: absolute;
                 top: 100px;
                 right: 150px;
-                background-image: url(../../images/image-insta.png);
+                background-image: url(../../../../images/image-insta.png);
                 background-size: cover;
              }
              .circuloface{
@@ -86,7 +86,7 @@ position: relative;
                 position: absolute;
                 bottom: 76px;
                 right: 150px;
-                background-image: url(../../images/image-face.png);
+                background-image: url(../../../../images/image-face.png);
                 background-size: cover;
              }
 
@@ -99,6 +99,6 @@ position: relative;
                 position: absolute;
                 bottom: 6px;
                 right: 70px;
-                background-image: url(../../images/image-mail.png);
+                background-image: url(../../../../images/image-mail.png);
                 background-size: cover;
              }
