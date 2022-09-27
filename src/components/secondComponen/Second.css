@@ -1,4 +1,39 @@
-
-h3 , p {
-    color: black;
+.second-contain{
+    background-color: rgba(0, 12, 14, 0.4);
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px ;
+    /* overflow: scroll; */
+    padding: 10px;
 }
+.bio-Text {
+    padding: 15px;
+}
+.text-second{
+    color: wheat;
+    text-align: center;
+}
+
+
+        .bio-Text{
+            background-color: rgb(1, 19, 24);
+            width: 30%;
+            height: 400px;
+        }
+        h3 , p {
+        color: black;
+         }
+
+         .carusel{
+            width: 70%;
+            overflow: scroll;
+            height: 400px ;
+         }
+
+         .carousel-indicators{
+            background-color: rgb(1, 19, 24);
+            border-radius: 20px;
+            height: 25px;;
+            position: absolute;
+            top: 0px;
+         }

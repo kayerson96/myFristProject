@@ -8,7 +8,15 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function Second(){
      return(
-      <div className='container'>
+
+<div className='second-contain'>
+      <div className='bio-Text'>
+        <h4 className='text-second'>lorem   fnvo fff lorem loremlo remlorem loremlorem lorem  loremloremlorem  lorem</h4>
+       </div>
+
+{/* aqui va el corarusel */}
+
+      <div className='carusel'>
       <Carousel>
       <Carousel.Item>
         <img
@@ -17,8 +25,8 @@ function Second(){
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>makeup</h3>
-          <p>Una pagina para maquillaje.</p>
+          <h3></h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -29,8 +37,8 @@ function Second(){
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3></h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -41,14 +49,13 @@ function Second(){
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+          <h3></h3>
+          <p></p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
     </div>
+</div>
      )
 }
 export default Second;
