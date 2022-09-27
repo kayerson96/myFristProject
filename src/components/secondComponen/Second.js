@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./Second.css";
 import imagen1 from "../../images/Imagen1.png"
 import forja from "../../images/forja.png"
-import makeup from "../../images/forja.png"
+import makeup from "../../images/makeup.png"
 import Carousel from 'react-bootstrap/Carousel';
 
 function Second(){
@@ -11,7 +11,10 @@ function Second(){
 
 <div className='second-contain'>
       <div className='bio-Text'>
-        <h4 className='text-second'>lorem   fnvo fff lorem loremlo remlorem loremlorem lorem  loremloremlorem  lorem</h4>
+        <h2 className='text-second'>Tecnologias Usadas</h2>
+        <h4 className='text-second'>#Html <br></br>#Css <br></br> JavaScript<br></br> React<br></br>Bootstrap</h4>
+        <h2 className='text-second'>Diseños</h2>
+        <h4 className='text-second'>#Figma<br></br>Photoshop</h4>
        </div>
 
 {/* aqui va el corarusel */}

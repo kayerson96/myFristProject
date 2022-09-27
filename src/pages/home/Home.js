@@ -10,7 +10,6 @@ function Home(){
         <div className=''>
             <Main/>
             <Second/>
-            <Footer/>
         </div>
 
         

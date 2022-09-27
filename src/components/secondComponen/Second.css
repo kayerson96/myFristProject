@@ -3,14 +3,13 @@
     display: flex;
     flex-wrap: wrap;
     height: 400px ;
-    /* overflow: scroll; */
     padding: 10px;
 }
 .bio-Text {
     padding: 15px;
 }
 .text-second{
-    color: wheat;
+    color: #F5F1F1;
     text-align: center;
 }
 
@@ -31,7 +30,7 @@
          }
 
          .carousel-indicators{
-            background-color: rgb(1, 19, 24);
+            background-color: rgb(1, 19, 24, 0.9);
             border-radius: 20px;
             height: 25px;;
             position: absolute;
