@@ -1,6 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import"./Main.css";
+import Button from 'react-bootstrap/Button';
 
 function Main(){
      return(
@@ -13,14 +14,14 @@ function Main(){
                About)=>   Me?</h2>
  </div>
           </div>
-
-
+          <Button href="" className='semi-Circulo'></Button>
+          <div className='semi-Circulo'></div>
             <div className='' id='socialMedia'>
-            <button className='circulogit'></button>
-            <button className='circuloinst'></button>
-            <button className='circuloface'></button>
-            <button className='circulomail'></button>
-             <div className='semi-Circulo'></div>
+            <Button href="https://github.com/kayerson96" className ='circulogit' ></Button>
+            <Button href="" className='circuloinst'></Button>
+            <Button href="" className='circuloface'></Button>
+            <Button href="" className='circulomail'></Button>
+             
             </div>
 
     </div>

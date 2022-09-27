@@ -4,6 +4,7 @@ width: 100%;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-between;
+position: relative;
 }
 .title {
    background-color: rgba(0, 12, 14, 0.4);
@@ -49,7 +50,7 @@ justify-content: space-between;
         -webkit-border-radius: 200px 0 0 200px;
         position: absolute;
         right: 0px;
-        bottom: 80px;
+        top: 80px;
     }
              .circulogit{
                 width: 100px;
