@@ -1,0 +1,40 @@
+
+.firstContain {
+    width: 100%;
+    display: flex;
+}
+#socialMedia {
+    position: absolute;
+    top: 50px;
+    right: 0px;
+}
+
+.marcoFoto {
+    width: 301px;
+    height: 365px;
+    border-radius: 155px;
+    background-color: rgba(0, 12, 14, 0.7);
+    display: flex;
+    margin: 20px;
+    margin-left:8%;
+}
+                .photoMe{
+                    background-image: url(../../images/base01.png);
+                    background-position:center;
+                    background-size: cover;
+                    width: 237px;
+                    height: 286px;
+                    border-radius: 155px;
+                    margin: 0px auto;
+                    position: relative;
+                    top: 35px;
+                }
+
+.myBio{
+    padding-top: 30px;
+    width: 401px;
+    height: 465px;
+}
+.text-center{
+    color: #F5F1F1;
+}

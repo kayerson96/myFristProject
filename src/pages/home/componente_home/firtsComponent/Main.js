@@ -13,16 +13,16 @@ function Main(){
                (Do you want to know <br></br>
                About)=>   Me?</h2>
  </div>
-          </div>
-          <Button href="" className='semi-Circulo'></Button>
-          <div className='semi-Circulo'></div>
-            <div className='' id='socialMedia'>
+      </div>
+
+           <div className='' id='socialMedia'>
+            <Button href="" className='semi-Circulo'></Button>
             <Button href="https://github.com/kayerson96" className ='circulogit' ></Button>
             <Button href="" className='circuloinst'></Button>
             <Button href="" className='circuloface'></Button>
             <Button href="" className='circulomail'></Button>
              
-            </div>
+          </div>
 
     </div>
      )
