@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDom from 'react-dom/client';
 import Home from './pages/home/Home';
 import Footer from './components/footer/Footer';
 import Header from './components/header/Header';

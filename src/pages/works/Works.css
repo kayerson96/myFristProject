@@ -1,0 +1,66 @@
+.projetc-Works{
+background-color: rgba(0, 12, 14, 0.4); ;
+width: 70%;
+height: 182px;
+margin: 20px;
+}
+
+.second-Works{
+    width: 80%;
+    margin: 2%;
+    padding: 15px;
+    
+
+}
+
+                .first-Works{
+                    width: 70%;
+                    margin: 0px auto;
+                    display: flex;
+                    gap: 15px;
+                }
+                        .pOne{
+                            background-image: url(../../images/makeup.png);
+                            background-size: cover;
+                            background-repeat: none;
+                            width: 30%;
+                            height: 331px;
+                        }
+                        .tOne{
+                            background-color: rgba(0, 12, 14, 0.7);
+                            width: 70%;
+                            height: 331px;
+                        }
+                        h4{
+                            color: white;
+                            text-align: center;
+                            margin-top: 20%;
+
+
+
+                        }
+                        .pTwo{
+                            background-image: url(../../images/forja.png);
+                            background-size: cover;
+                            background-repeat: none;
+                            width: 30%;
+                            height: 331px;
+                        }
+                        .tTwo{
+                            background-color: rgba(0, 12, 14, 0.7);
+                            width: 70%;
+                            height: 331px;
+                        }
+
+                        .pThree{
+                            background-image: url(../../images/Imagen1.png);
+                            background-size: cover;
+                            background-repeat: none;
+                            width: 30%;
+                            height: 331px;
+                        }
+                        .tThree{
+                            background-color: rgba(0, 12, 14, 0.7);
+                            width: 70%;
+                            height: 331px;
+                        }

@@ -38,3 +38,47 @@
 .text-center{
     color: #F5F1F1;
 }
+
+        .container-About{
+            display: flex;
+            justify-content: space-around;
+            padding: 15px;
+            position: relative;
+        }
+            .hojadeVida{
+                background-color: rgba(0, 12, 14, 0.7);
+                height: 460px;
+                 width: 30%;
+                 text-align: center;
+
+                }
+                            .imagcv{
+                                background-image: url(../../images/0001.jpg);
+                                width: 349px;
+                                height: 385px;
+                                background-position: center;
+                                background-size: cover;
+                                margin: 0px auto;
+                                margin-top: 30px;
+
+                            }
+                                        h3{
+                                            color: white;
+                                        }
+
+            .projects{
+                background-color: rgba(0, 12, 14, 0.7);
+                 height: 460px;
+                width: 30%;
+                position: relative;
+                text-align: center;
+                }
+                .imagpj{
+                background-image: url(../../images/002.jpg);
+                width: 349px;
+                height: 385px;
+                background-position: center;
+                background-size: cover;
+                margin: 0px auto;
+                margin-top: 30px;
+                }
