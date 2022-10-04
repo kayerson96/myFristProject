@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myFristProject/static/css/main.b1c06c27.css",
+    "main.js": "/myFristProject/static/js/main.2100cae5.js",
+    "static/js/787.5dff559a.chunk.js": "/myFristProject/static/js/787.5dff559a.chunk.js",
+    "static/media/body.jpg": "/myFristProject/static/media/body.8067e9f7330b8a2179e5.jpg",
+    "static/media/Imagen1.png": "/myFristProject/static/media/Imagen1.9458f3df5ace4ba780b0.png",
+    "static/media/makeup.png": "/myFristProject/static/media/makeup.e1dc695bc9f95ef5dc01.png",
+    "static/media/forja.png": "/myFristProject/static/media/forja.3ca142c92e0ba9b79603.png",
+    "static/media/plane.jpg": "/myFristProject/static/media/plane.dadb019a9f94fdbd3c48.jpg",
+    "static/media/0001.jpg": "/myFristProject/static/media/0001.b8749faca390eb2ef8e3.jpg",
+    "static/media/image-insta.png": "/myFristProject/static/media/image-insta.1f3bd09f14514e1159cc.png",
+    "static/media/002.jpg": "/myFristProject/static/media/002.9429d8ae51b4e88569ea.jpg",
+    "static/media/image-mail.png": "/myFristProject/static/media/image-mail.93d7bd8eed31d2f46b8b.png",
+    "static/media/image-face.png": "/myFristProject/static/media/image-face.7044d4d6ea25bd191132.png",
+    "static/media/image-git.png": "/myFristProject/static/media/image-git.8b2b2359eb1dc14613d2.png",
+    "index.html": "/myFristProject/index.html",
+    "main.b1c06c27.css.map": "/myFristProject/static/css/main.b1c06c27.css.map",
+    "main.2100cae5.js.map": "/myFristProject/static/js/main.2100cae5.js.map",
+    "787.5dff559a.chunk.js.map": "/myFristProject/static/js/787.5dff559a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c06c27.css",
+    "static/js/main.2100cae5.js"
+  ]
+}
